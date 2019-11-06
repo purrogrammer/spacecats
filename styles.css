@@ -35,7 +35,7 @@ body {
     2px 4px 1px rgb(167,167,167),
 /*long soft bottom*/
 1px 10px 30px rgba(0,0,0,0.8),
-1px 10px 70px rgba(0,0,0,0.8),
+1px 10px 70px rgba(0,0,0,0.t8),
 /*short soft bottom*/
 0px 5px 5px rgba(0,0,0,0.8),
 /*left shadow*/
@@ -47,7 +47,7 @@ body {
 }
 
 .emboss-txt::after {
-    content: "Hello";
+    content: "Cats in Space";
     font-size: 180px;
     letter-spacing: 5px;
     font-family: Arial, Helvetica, sans-serif;
